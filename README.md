@@ -1,2 +1,2 @@
-# Hello-World
+# hello-world
 Repository for GitHub practice.
